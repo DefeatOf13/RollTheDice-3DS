@@ -9,6 +9,18 @@ Simple Homebrew application for Nintendo 3DS systems that simulates the roll of 
 2. Open CMD in the directory
 3. run make
 
+# How to run
+
+[3DS]
+1. Place the built .3dsx file in sd/3ds
+2. Open The Homebrew Launcher on your console
+3. Select roll-the-dice
+
+[Citra]
+1. Open Citra
+2. Locate the .3dsx file
+3. Open it
+
 # Credits
 - DefeatOf13
 - DevKitPRO
