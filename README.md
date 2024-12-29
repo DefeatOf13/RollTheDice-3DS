@@ -12,7 +12,7 @@ Simple Homebrew application for Nintendo 3DS systems that simulates the roll of 
 # How to run
 
 [3DS]
-1. Place the built .3dsx file in sd/3ds
+1. Place the built .3dsx file in rootofthesdcard/3ds folder
 2. Open The Homebrew Launcher on your console
 3. Select roll-the-dice
 
