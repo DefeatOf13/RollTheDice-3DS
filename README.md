@@ -15,7 +15,7 @@ Simple Homebrew application for Nintendo 3DS systems that simulates the roll of 
 1. Build the .3dsx file or download it from [here](https://github.com/DefeatOf13/RollTheDice-3DS/releases/download/v1.0/roll-the-dice.3dsx)
 2. Place the file in the rootofthesdcard/3ds folder
 3. Open The Homebrew Launcher on your console
-4. Select roll-the-dice
+4. Select RollTheDice-3DS
 
 [Citra]
 1. Build the .3dsx file or download it from [here](https://github.com/DefeatOf13/RollTheDice-3DS/releases/download/v1.0/roll-the-dice.3dsx)
@@ -25,4 +25,4 @@ Simple Homebrew application for Nintendo 3DS systems that simulates the roll of 
 
 # Credits
 - DefeatOf13
-- DevKitPRO
+- Built using DevkitPRO
