@@ -32,14 +32,14 @@ include $(DEVKITARM)/3ds_rules
 #     - <libctru folder>/default_icon.png
 #---------------------------------------------------------------------------------
 TARGET		:=	$(notdir $(CURDIR))
-BUILD		:=	build
+BUILD		:=	buildS
 SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 GRAPHICS	:=	gfx
 GFXBUILD	:=	$(BUILD)
-APP_TITLE   :=  roll-the-dice
-APP_DESCRIPTION := Simple Homebrew application for Nintendo 3DS systems that simulates the roll of a dice.
+APP_TITLE   :=  RollTheDice-3DS
+APP_DESCRIPTION := Roll the dice simulator for 3DS
 APP_AUTHOR := DefeatOf13
 #ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
