@@ -38,6 +38,9 @@ DATA		:=	data
 INCLUDES	:=	include
 GRAPHICS	:=	gfx
 GFXBUILD	:=	$(BUILD)
+APP_TITLE   :=  roll-the-dice
+APP_DESCRIPTION := Simple Homebrew application for Nintendo 3DS systems that simulates the roll of a dice.
+APP_AUTHOR := DefeatOf13
 #ROMFS		:=	romfs
 #GFXBUILD	:=	$(ROMFS)/gfx
 
