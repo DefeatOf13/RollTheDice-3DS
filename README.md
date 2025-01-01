@@ -5,6 +5,7 @@ Simple Homebrew application for Nintendo 3DS systems that simulates the roll of 
 ![Screenshot 2024-12-29 235146](https://github.com/user-attachments/assets/49bcb51f-7487-44ca-8fc2-5015393d6db1)
 
 # Building
+(Make sure you have DevkitPro installed)
 1. Clone the repo
 2. Open CMD in the directory
 3. run make
